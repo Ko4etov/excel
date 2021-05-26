@@ -24,7 +24,7 @@
         "eol-last": "off",
         "arrow-parens": "off",
         "indent": ["error", "tab"],
-        "allowIndentationTabs": true,
+        "allowIndentationTabs": "off",
         "require-jsdoc": "off"
     }
 }
